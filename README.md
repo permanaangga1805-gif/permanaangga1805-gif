@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/150?text=Angga+Permana" alt="Angga Permana" style="border-radius: 50%;">
+  <img src="https://raw.githubusercontent.com/permanaangga1805-gif/permanaangga1805-gif/refs/heads/main/foto-profil-fortopolio-jpg.jpg" alt="Angga Permana" style="border-radius: 50%;">
 </p>
 
 > **Berpengalaman | Pekerja Keras | Memiliki SIM C (Aktif)**
