@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Ganti link gambar di bawah ini dengan link foto Anda -->
-  <img src="<img width="326" height="408" alt="17804964659313634437266000693907" src="https://github.com/user-attachments/assets/31617be3-2c01-45ff-a6c5-48e23aa5546a" />
+  <img src="<img width="326" height="408" alt="17804964659313634437266000693907" src="https://github.com/user-attachments/assets/31617be3-2c01-45ff-a6c5-48e23aa5546a"/>
 " width="150" height="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); object-fit: cover; margin-bottom: 20px;">
 
   <h1>ðŸ‘‹ Halo, Saya Angga Permana</h1>
